@@ -13,7 +13,7 @@ PS C:> .\Detector.exe output.txt
  /_/ \_\_| |___| |_||_\___/\___/_\_\_|_||_\__, | |___/\___|\__\___\__|\__\___/_|
                                           |___/
 
-                                    [Coded by MrEmpy]
+                                    [Coded by Brosck]
                                          [v2.0]
 
 [*] NT API being hooked:
